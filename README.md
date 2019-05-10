@@ -12,8 +12,8 @@ install pyqtgraph
 install pyaudio
 
 # Works with
-  o LINUX
-  o WINDOWS (using Anaconda)
+  * LINUX
+  * WINDOWS (using Anaconda)
   
 # Running 
 Once everything has been setuped, run start.py to start the bmp count and visualization of the frequency. Your default recording device (microphone) will be used as the audio input. Using of the Jack on your device is highly recomended in order to get everything precisely.
