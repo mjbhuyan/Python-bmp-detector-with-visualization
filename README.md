@@ -1,4 +1,4 @@
-# python-beat-detector
+# bmp-detector-with-visualization in Python
 Real-time detection of beats for music, calculates BPM and flashes the frequencies on LED strip or matrix and also visualizes it on a GUI in time with the on-playing music.
 
 
